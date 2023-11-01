@@ -40,7 +40,7 @@ width: 700px;
     .h11{
        font-size: 50px;
        width: 450px;
-       margin-left: 20px;
+       margin-left: 30px;
     }
     
 
@@ -49,13 +49,13 @@ width: 700px;
 
 
 }
-@media (max-width: 490px) { 
+@media (max-width: 550px) { 
 
 
     .h11{
        font-size: 30px;
        width: 300px;
-       margin-left: 0px;
+       margin-left: 90px;
     }
     
 
@@ -64,6 +64,33 @@ width: 700px;
 
 
 }
+
+
+@media (max-width: 400px) { 
+
+
+    .h11{
+      
+        margin-left: 50px;
+    
+    }
+    
+
+}
+@media (max-width: 450px) and(min-width: 400px) { 
+
+
+    .h11{
+      
+     margin-left: 70px;
+    
+    }
+    
+
+
+
+}
+
 
 @media(max-width: 490px){ 
 
