@@ -83,3 +83,17 @@ font-size: 100px;
 .icon1{
     font-size: 50px;
 }
+
+.tree{
+    background-image: url(../img/tree.jpg);
+   background-size: cover;
+}
+
+
+.card1{
+    opacity: 95%;
+
+}
+
+
+card
