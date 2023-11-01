@@ -2,6 +2,7 @@
 
 background-image: url('../img/817-1800x1600.jpg');
 background-size: cover;
+
 }
 .nav1{opacity: 90%;
 
@@ -26,14 +27,85 @@ background-size: cover;
 .h11{
 
 font-size: 100px;
-  
+width: 700px;
+
 
   
 }
 
+
+@media (max-width: 767px) { 
+
+
+    .h11{
+       font-size: 50px;
+       width: 450px;
+       margin-left: 20px;
+    }
+    
+
+
+
+
+
+}
+
+
+
+
+
+@media (max-width: 767px) { 
+
+
+    .zzz{
+       margin-bottom: 20px; 
+       margin-left: 20px;
+      
+      justify-content: center;
+    }
+      
+      
+    
+    
+
+
+
+
+
+}
+
+@media (max-width: 767px) { 
+
+
+    .ee{
+       margin-bottom: 20px; 
+       margin-left: -11px;
+      
+      
+    }
+      
+      
+    
+    
+
+
+
+
+
+}
+
+
+
+
+
+
+
 .zz{
     padding-top: 350px;
     padding-bottom: 350px;
+   display: grid;
+justify-content: center;
+
 }
 
 .logo1{
